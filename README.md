@@ -1,1 +1,34 @@
-# gastronomia---Carlos-e-Juninho
+# gastronomia---Carlos-e-Junin
+
+1 ALURA FLIX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

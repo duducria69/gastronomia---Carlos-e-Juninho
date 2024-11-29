@@ -45,12 +45,12 @@ header {
 
     .categoria-videos img {
         opacity: 1.0;
-        height: 100px;
+        height: 50px;
     }
     
     .categoria-videos img:hover {
         opacity: 1.0;
-        border: 3px solid green;
+        border: 1px solid green;
     }
     
     .categoria h2 {
